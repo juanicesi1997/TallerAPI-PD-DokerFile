@@ -1,8 +1,8 @@
 # 🚀 TallerAPI-PD-DockerFile  
 
-📌 **Proyecto académico desarrollado en la Maestría en Ciencia de Datos – ICESI (2025)** dentro del curso **Procesamiento Distribuido**.  
+## Integrante: Juan Daniel Perez 
 
-El objetivo principal es **construir, contenerizar y desplegar una API de predicción**, utilizando **FastAPI** y **Docker**, como base para prácticas de despliegue en la nube y experimentación con modelos de machine learning.  
+📌 **Proyecto académico desarrollado en la Maestría en Ciencia de Datos – ICESI (2025)** dentro del curso **Procesamiento Distribuido**.  
 
 # Procesamiento Distribuido y Despliegue de Modelo en Contenedores
 
