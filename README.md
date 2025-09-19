@@ -56,10 +56,10 @@ pip install -r requirements.txt
 Construir y ejecutar el contenedor:
 ```bash
 docker build -t modelo-ml .
-docker run -p 8080:8080 modelo-ml
+docker run -p 8000:8000 modelo-ml
 ```
 
-El servicio quedará expuesto en `http://localhost:8080`.
+El servicio quedará expuesto en `http://localhost:8000`.
 
 ---
 
