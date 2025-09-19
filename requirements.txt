@@ -1,0 +1,10 @@
+fastapi
+joblib
+pandas
+pydantic
+xgboost
+scikit-learn
+fsspec
+uvicorn
+gcsfs
+numpy==1.26.4
